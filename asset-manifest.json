@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/wanderlustbakeshop/static/css/main.f35ea0bf.chunk.css",
+    "main.js": "/wanderlustbakeshop/static/js/main.0238b443.chunk.js",
+    "main.js.map": "/wanderlustbakeshop/static/js/main.0238b443.chunk.js.map",
+    "runtime-main.js": "/wanderlustbakeshop/static/js/runtime-main.3a7d906c.js",
+    "runtime-main.js.map": "/wanderlustbakeshop/static/js/runtime-main.3a7d906c.js.map",
+    "static/js/2.a28afb6a.chunk.js": "/wanderlustbakeshop/static/js/2.a28afb6a.chunk.js",
+    "static/js/2.a28afb6a.chunk.js.map": "/wanderlustbakeshop/static/js/2.a28afb6a.chunk.js.map",
+    "index.html": "/wanderlustbakeshop/index.html",
+    "precache-manifest.ac082142d9a6d2b95440d6a99e6717d1.js": "/wanderlustbakeshop/precache-manifest.ac082142d9a6d2b95440d6a99e6717d1.js",
+    "service-worker.js": "/wanderlustbakeshop/service-worker.js",
+    "static/css/main.f35ea0bf.chunk.css.map": "/wanderlustbakeshop/static/css/main.f35ea0bf.chunk.css.map",
+    "static/js/2.a28afb6a.chunk.js.LICENSE.txt": "/wanderlustbakeshop/static/js/2.a28afb6a.chunk.js.LICENSE.txt",
+    "static/media/6.jpg": "/wanderlustbakeshop/static/media/6.4d919399.jpg",
+    "static/media/COOKIES.jpg": "/wanderlustbakeshop/static/media/COOKIES.950dea7f.jpg",
+    "static/media/index.css": "/wanderlustbakeshop/static/media/Puff Menu.1edbea16.jpg",
+    "static/media/Tagline.jpg": "/wanderlustbakeshop/static/media/Tagline.3a66c402.jpg",
+    "static/media/image00022.jpeg": "/wanderlustbakeshop/static/media/image00022.beb355f7.jpeg",
+    "static/media/puff nation.png": "/wanderlustbakeshop/static/media/puff nation.860b9123.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a7d906c.js",
+    "static/js/2.a28afb6a.chunk.js",
+    "static/css/main.f35ea0bf.chunk.css",
+    "static/js/main.0238b443.chunk.js"
+  ]
+}
